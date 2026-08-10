@@ -45,6 +45,18 @@ I care about **clean architecture**, **measurable progress**, and **shipping wha
 
 <div align="center">
 
+[![Profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yuvan-1166&theme=github_dark)](https://github.com/Yuvan-1166)
+
+</div>
+
+<div align="center">
+
+[![Profile stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yuvan-1166&theme=github_dark)](https://github.com/Yuvan-1166) [![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yuvan-1166&theme=github_dark&utcOffset=5.5)](https://github.com/Yuvan-1166)
+
+</div>
+
+<div align="center">
+
 [![GitHub trophies](https://github-profile-trophy-fast.vercel.app/?username=Yuvan-1166&theme=darkhub&no-bg=true&no-frame=true&column=4&row=2&margin-w=8&margin-h=8)](https://github.com/Yuvan-1166)
 
 </div>
@@ -93,48 +105,48 @@ I care about **clean architecture**, **measurable progress**, and **shipping wha
   <tr>
     <td align="center" width="50%">
       <div style="border:1px solid #22d3ee40; border-radius:10px; padding:16px; margin:8px; background:#161b22; color:#e5e7eb;">
-        <strong>🔍 <a href="https://github.com/Yuvan-1166/verify-lens" style="color:#2dd4bf;">verify-lens</a></strong><br/>
-        <span style="color:#e5e7eb;">Open-source forensic toolkit that detects AI-generated imagery via frequency-domain artifacts, semantic inconsistency, and C2PA metadata analysis.</span><br/>
-        <code>Python</code>
-      </div>
-    </td>
-    <td align="center" width="50%">
-      <div style="border:1px solid #22d3ee40; border-radius:10px; padding:16px; margin:8px; background:#161b22; color:#e5e7eb;">
-        <strong>🎯 <a href="https://github.com/Yuvan-1166/agentic-recruitment-system" style="color:#2dd4bf;">agentic-recruitment-system</a></strong><br/>
-        <span style="color:#e5e7eb;">Multi-agent recruiting platform with resume screening, adaptive MCQ assessments, candidate ranking, and explainable hiring decisions.</span><br/>
-        <code>Python</code>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <div style="border:1px solid #22d3ee40; border-radius:10px; padding:16px; margin:8px; background:#161b22; color:#e5e7eb;">
-        <strong>🐙 <a href="https://github.com/Yuvan-1166/Hacktopus" style="color:#2dd4bf;">Hacktopus</a></strong><br/>
-        <span style="color:#e5e7eb;">Faculty recruitment system with streamlined application workflows and AI-assisted evaluations.</span><br/>
-        <code>Python</code>
-      </div>
-    </td>
-    <td align="center" width="50%">
-      <div style="border:1px solid #22d3ee40; border-radius:10px; padding:16px; margin:8px; background:#161b22; color:#e5e7eb;">
         <strong>📈 <a href="https://github.com/Yuvan-1166/crm" style="color:#2dd4bf;">crm</a></strong><br/>
-        <span style="color:#e5e7eb;">Full-stack CRM with role-based access, analytics dashboards, Google OAuth/Gmail integration, and AI-assisted outreach generation.</span><br/>
+        <span style="color:#e5e7eb;">Full-stack CRM handling the complete customer lifecycle — Lead → MQL → SQL → Opportunity → Customer → Evangelist.</span><br/>
         <code>JavaScript</code>
       </div>
     </td>
+    <td align="center" width="50%">
+      <div style="border:1px solid #22d3ee40; border-radius:10px; padding:16px; margin:8px; background:#161b22; color:#e5e7eb;">
+        <strong>📱 <a href="https://github.com/Yuvan-1166/PhoneConnect" style="color:#2dd4bf;">PhoneConnect</a></strong><br/>
+        <span style="color:#e5e7eb;">Trigger cellular calls from your laptop through a WebSocket gateway and a companion Android app.</span><br/>
+        <code>Kotlin</code>
+      </div>
+    </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <div style="border:1px solid #22d3ee40; border-radius:10px; padding:16px; margin:8px; background:#161b22; color:#e5e7eb;">
-        <strong>🛡️ <a href="https://github.com/Yuvan-1166/Intrusion-Detection-System" style="color:#2dd4bf;">Intrusion-Detection-System</a></strong><br/>
-        <span style="color:#e5e7eb;">Ensemble network IDS that stacks CNN-LSTM and Random Forest to detect intrusions in traffic data.</span><br/>
-        <code>Python · Jupyter</code>
+        <strong>💬 <a href="https://github.com/Yuvan-1166/support-chat" style="color:#2dd4bf;">support-chat</a></strong><br/>
+        <span style="color:#e5e7eb;">Conversational AI for the CRM with ASK, VISUALIZE & AGENT modes over company data (FastAPI + LangGraph + RAG).</span><br/>
+        <code>Python</code>
       </div>
     </td>
     <td align="center" width="50%">
       <div style="border:1px solid #22d3ee40; border-radius:10px; padding:16px; margin:8px; background:#161b22; color:#e5e7eb;">
-        <strong>💬 <a href="https://github.com/Yuvan-1166/support-chat" style="color:#2dd4bf;">support-chat</a></strong><br/>
-        <span style="color:#e5e7eb;">Real-time support-focused chat application built for practical communication workflows.</span><br/>
+        <strong>⚔️ <a href="https://github.com/Yuvan-1166/codesaga" style="color:#2dd4bf;">codesaga</a></strong><br/>
+        <span style="color:#e5e7eb;">Learn tech stacks by building real applications through story-driven tasks (Next.js 14 + TypeScript).</span><br/>
+        <code>TypeScript</code>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <div style="border:1px solid #22d3ee40; border-radius:10px; padding:16px; margin:8px; background:#161b22; color:#e5e7eb;">
+        <strong>📊 <a href="https://github.com/Yuvan-1166/Stock-Analysis" style="color:#2dd4bf;">Stock-Analysis</a></strong><br/>
+        <span style="color:#e5e7eb;">Stock price prediction web app using Linear Regression, Random Forest & LSTM (Streamlit + yfinance).</span><br/>
         <code>Python</code>
+      </div>
+    </td>
+    <td align="center" width="50%">
+      <div style="border:1px solid #22d3ee40; border-radius:10px; padding:16px; margin:8px; background:#161b22; color:#e5e7eb;">
+        <strong>🧩 <a href="https://github.com/Yuvan-1166/The-Puzzler" style="color:#2dd4bf;">The-Puzzler</a></strong><br/>
+        <span style="color:#e5e7eb;">2048 game engine with a self-playing Dueling DQN reinforcement learning agent.</span><br/>
+        <code>Python · Java</code>
       </div>
     </td>
   </tr>
@@ -168,6 +180,6 @@ I care about **clean architecture**, **measurable progress**, and **shipping wha
 
 <div align="center">
 
-<sub>Built with curiosity, clean code, and too much coffee ☕</sub>
+<sub>Build. Break. Learn. Repeat.</sub>
 
 </div>
