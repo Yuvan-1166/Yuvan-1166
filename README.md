@@ -166,7 +166,7 @@ I care about **clean architecture**, **measurable progress**, and **shipping wha
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvan-shankar-s-842321298) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvanshankars.aiml2023@citchennai.net) [![GitHub followers](https://img.shields.io/github/followers/Yuvan-1166?style=for-the-badge&logo=github&logoColor=white&color=24292e)](https://github.com/Yuvan-1166)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvan-shankar-s-842321298) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvanshankars.1166@gmail.com) [![GitHub followers](https://img.shields.io/github/followers/Yuvan-1166?style=for-the-badge&logo=github&logoColor=white&color=24292e)](https://github.com/Yuvan-1166)
 
 </div>
 
